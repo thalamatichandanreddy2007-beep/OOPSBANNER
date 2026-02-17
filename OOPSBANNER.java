@@ -15,6 +15,14 @@ public class OOPSBANNER {
 
     //now we should branch 
     //git checkout -b feature/UC1-PrintOOPS (this uc1 is from the given question )
+
+    // NOW AGAIN DO GIT ADD AND GIT COMMIT(WRITE SOMETHING AFTER THIS)
+    // NOW GIT PUSH 
+    //git push origin feature/UC1-PrintOOPS (syntax: git push origin)
+    // git status
+    // git branch
+    // git checkout -b main
+    
     public static void main(String[] args){
         System.out.println("OOPS");
         
