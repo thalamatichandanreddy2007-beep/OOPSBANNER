@@ -1,4 +1,4 @@
-public class OOPSBANNER {
+
     
     //STEPS TO PUSH INTO GITHUB 
 
@@ -11,7 +11,7 @@ public class OOPSBANNER {
 
     // M MODIFIED 
 
-    // git commit -m 
+    // git commit -m (after writing this give some comments )
 
     //now we should branch 
     //git checkout -b feature/UC1-PrintOOPS (this uc1 is from the given question )
@@ -23,9 +23,14 @@ public class OOPSBANNER {
     // git branch
     // git checkout -b main
     
+public class OOPSBANNER{
     public static void main(String[] args){
-        System.out.println("OOPS");
-        
+        System.out.println(" ***   " + "  ***   " + " ***** " + "   ***** ");
+        System.out.println("**  **  " + "**  **  " + "**   **" + " **   **");
+        System.out.println("**  **  " + "**  **  " + "**   **" + " **     ");
+        System.out.println("**  **  " + "**  **  " + "*****  " + "  ***** ");
+        System.out.println("**  **  " + "**  **  " + "**     " + "      **");
+        System.out.println("**  **  " + "**  **  " + "**     " + "**    **");
+        System.out.println(" ***   " + "  ***   " + " **     " + " ***** ");
     }
-    
 }
