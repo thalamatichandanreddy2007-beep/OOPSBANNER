@@ -1,4 +1,4 @@
-public class OOPSBANNER {
+
     
     //STEPS TO PUSH INTO GITHUB 
 
@@ -23,9 +23,14 @@ public class OOPSBANNER {
     // git branch
     // git checkout -b main
     
+public class OOPSBANNER{
     public static void main(String[] args){
-        System.out.println("OOPS");
-        
+        System.out.println(" ***   " + "  ***   " + " ***** " + "   ***** ");
+        System.out.println("**  **  " + "**  **  " + "**   **" + " **   **");
+        System.out.println("**  **  " + "**  **  " + "**   **" + " **     ");
+        System.out.println("**  **  " + "**  **  " + "*****  " + "  ***** ");
+        System.out.println("**  **  " + "**  **  " + "**     " + "      **");
+        System.out.println("**  **  " + "**  **  " + "**     " + "**    **");
+        System.out.println(" ***   " + "  ***   " + " **     " + " ***** ");
     }
-    
 }
