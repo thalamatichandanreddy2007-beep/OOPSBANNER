@@ -23,14 +23,14 @@
     // git branch
     // git checkout -b main
     
-public class OOPSBANNER{
-    public static void main(String[] args){
-        System.out.println(" ***   " + "  ***   " + " ***** " + "   ***** ");
-        System.out.println("**  **  " + "**  **  " + "**   **" + " **   **");
-        System.out.println("**  **  " + "**  **  " + "**   **" + " **     ");
-        System.out.println("**  **  " + "**  **  " + "*****  " + "  ***** ");
-        System.out.println("**  **  " + "**  **  " + "**     " + "      **");
-        System.out.println("**  **  " + "**  **  " + "**     " + "**    **");
-        System.out.println(" ***   " + "  ***   " + " **     " + " ***** ");
-    }
+class OOPSBANNER{
+	public static void main(String[] args) {
+	System.out.println(String.join(" ", " **** ", " **** ", " ****** ", " ******** "));
+	System.out.println(String.join(" ", " *  * ", " *  * ", " *    * ", " *        "));
+	System.out.println(String.join(" ", " *  * ", " *  * ", " *    * ", " *        "));
+	System.out.println(String.join(" ", " *  * ", " *  * ", " ****** ", " ******** "));
+	System.out.println(String.join(" ", " *  * ", " *  * ", " *      ", "        * "));
+	System.out.println(String.join(" ", " *  * ", " *  * ", " *      ", "        * "));
+	System.out.println(String.join(" ", " **** ", " **** ", " *      ", " ******** "));
+	}
 }
